@@ -1,10 +1,4 @@
 package TwoPointers;
-
-public class TwoSum2 {
-    static void main() {
-
-    }
-}
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
         int i=0;
