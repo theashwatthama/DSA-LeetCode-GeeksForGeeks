@@ -101,3 +101,19 @@ If you find this repository helpful for your own DSA prep, consider giving it a 
 ---
 
 <p align="center">Made with ☕ and consistent practice by <a href="https://github.com/theashwattama">@theashwattama</a></p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0076-minimum-window-substring) |
+## String
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0076-minimum-window-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0076-minimum-window-substring) |
+<!---LeetCode Topics End-->
