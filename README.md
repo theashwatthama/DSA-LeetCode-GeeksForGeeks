@@ -108,6 +108,7 @@ If you find this repository helpful for your own DSA prep, consider giving it a 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0141-linked-list-cycle) |
 ## String
 |  |
 | ------- |
@@ -116,4 +117,12 @@ If you find this repository helpful for your own DSA prep, consider giving it a 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0076-minimum-window-substring) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
