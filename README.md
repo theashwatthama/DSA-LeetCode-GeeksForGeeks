@@ -170,4 +170,8 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0974-subarray-sums-divisible-by-k) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
