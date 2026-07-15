@@ -175,4 +175,9 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | ------- |
 | [0007-reverse-integer](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0009-palindrome-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
