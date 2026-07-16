@@ -180,4 +180,12 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
