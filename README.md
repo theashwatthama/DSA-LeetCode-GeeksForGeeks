@@ -148,6 +148,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | ------- |
 | [0053-maximum-subarray](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -175,6 +176,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | ------- |
 | [0007-reverse-integer](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0009-palindrome-number) |
+| [0509-fibonacci-number](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0509-fibonacci-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -188,4 +190,12 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0125-valid-palindrome) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
