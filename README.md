@@ -130,6 +130,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0057-insert-interval) |
@@ -191,6 +192,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0125-valid-palindrome) |
 | [0986-interval-list-intersections](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0986-interval-list-intersections) |
 ## String
