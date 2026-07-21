@@ -134,6 +134,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [0053-maximum-subarray](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0057-insert-interval) |
+| [0136-single-number](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0268-missing-number) |
@@ -232,5 +233,6 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
