@@ -138,6 +138,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [0189-rotate-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0724-find-pivot-index) |
