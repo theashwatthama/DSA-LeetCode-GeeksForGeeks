@@ -192,6 +192,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [0189-rotate-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0509-fibonacci-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -224,6 +225,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | ------- |
 | [0056-merge-intervals](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0268-missing-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3536-maximum-product-of-two-digits) |
 ## Sweep Line
 |  |
 | ------- |
