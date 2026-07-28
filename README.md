@@ -144,6 +144,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [0560-subarray-sum-equals-k](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0739-daily-temperatures) |
 | [0918-maximum-sum-circular-subarray](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0986-interval-list-intersections) |
@@ -248,9 +249,14 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
