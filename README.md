@@ -191,6 +191,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [0525-contiguous-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1189-maximum-number-of-balloons) |
 ## Math
 |  |
 | ------- |
@@ -223,6 +224,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [0383-ransom-note](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1189-maximum-number-of-balloons) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
@@ -274,6 +276,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | ------- |
 | [0383-ransom-note](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
 |  |
 | ------- |
