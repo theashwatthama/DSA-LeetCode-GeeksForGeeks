@@ -233,6 +233,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -289,4 +290,8 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [0409-longest-palindrome](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0409-longest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
