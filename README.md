@@ -293,5 +293,6 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 ## Linked List
 |  |
 | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
