@@ -299,4 +299,5 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [0025-reverse-nodes-in-k-group](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0206-reverse-linked-list) |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/2074-reverse-nodes-in-even-length-groups) |
 <!---LeetCode Topics End-->
