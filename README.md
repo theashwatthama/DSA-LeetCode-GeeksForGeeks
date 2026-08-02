@@ -233,6 +233,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -293,6 +294,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
