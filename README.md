@@ -214,6 +214,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0283-move-zeroes) |
@@ -297,6 +298,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0206-reverse-linked-list) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/2074-reverse-nodes-in-even-length-groups) |
