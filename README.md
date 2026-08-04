@@ -152,6 +152,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3731-find-missing-elements](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -194,6 +195,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [0974-subarray-sums-divisible-by-k](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1189-maximum-number-of-balloons) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -251,6 +253,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3731-find-missing-elements) |
 ## Sweep Line
 |  |
 | ------- |
