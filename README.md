@@ -206,6 +206,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [0509-fibonacci-number](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -305,4 +306,8 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [0092-reverse-linked-list-ii](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0206-reverse-linked-list) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/2074-reverse-nodes-in-even-length-groups) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
