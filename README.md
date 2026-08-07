@@ -136,6 +136,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [0057-insert-interval](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0057-insert-interval) |
 | [0136-single-number](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0283-move-zeroes) |
@@ -264,6 +265,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0852-peak-index-in-a-mountain-array) |
