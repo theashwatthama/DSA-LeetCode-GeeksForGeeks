@@ -131,6 +131,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0057-insert-interval) |
@@ -265,6 +266,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0704-binary-search) |
