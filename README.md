@@ -150,6 +150,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [0724-find-pivot-index](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0986-interval-list-intersections) |
@@ -271,6 +272,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [0268-missing-number](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
