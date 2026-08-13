@@ -135,6 +135,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [0053-maximum-subarray](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0057-insert-interval) |
+| [0074-search-a-2d-matrix](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -272,6 +273,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0268-missing-number) |
@@ -329,4 +331,8 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0852-peak-index-in-a-mountain-array) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
