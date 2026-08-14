@@ -144,6 +144,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [0240-search-a-2d-matrix-ii](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0283-move-zeroes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0525-contiguous-array) |
@@ -262,6 +263,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | ------- |
 | [0056-merge-intervals](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -280,6 +282,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [0162-find-peak-element](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0875-koko-eating-bananas) |
@@ -298,6 +301,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Stack
 |  |
@@ -339,4 +343,5 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
