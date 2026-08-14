@@ -141,6 +141,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0189-rotate-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0485-max-consecutive-ones) |
@@ -164,6 +165,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -276,6 +278,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [0074-search-a-2d-matrix](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -335,4 +338,5 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
