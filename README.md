@@ -145,6 +145,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [0240-search-a-2d-matrix-ii](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0503-next-greater-element-ii) |
@@ -170,6 +171,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [0053-maximum-subarray](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -201,6 +203,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0409-longest-palindrome) |
@@ -268,6 +271,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [0056-merge-intervals](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -307,6 +311,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Stack
@@ -317,6 +322,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1189-maximum-number-of-balloons) |
@@ -356,6 +362,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0347-top-k-frequent-elements) |
 ## Minimax
 |  |
 | ------- |
@@ -372,4 +379,8 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/2029-stone-game-ix) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
