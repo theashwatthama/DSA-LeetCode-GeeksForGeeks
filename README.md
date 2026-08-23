@@ -226,6 +226,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [0268-missing-number](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0628-maximum-product-of-three-numbers) |
+| [1927-sum-game](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -259,6 +260,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [0767-reorganize-string](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1189-maximum-number-of-balloons) |
+| [1927-sum-game](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Recursion
@@ -346,6 +348,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | ------- |
 | [0409-longest-palindrome](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0409-longest-palindrome) |
 | [0767-reorganize-string](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0767-reorganize-string) |
+| [1927-sum-game](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -384,6 +387,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 ## Game Theory
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
