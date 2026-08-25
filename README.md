@@ -166,6 +166,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2029-stone-game-ix](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/2029-stone-game-ix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -216,6 +217,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [0974-subarray-sums-divisible-by-k](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1189-maximum-number-of-balloons) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
