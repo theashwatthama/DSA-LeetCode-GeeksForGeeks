@@ -263,6 +263,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1189-maximum-number-of-balloons) |
 | [1927-sum-game](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Recursion
@@ -412,4 +413,8 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
