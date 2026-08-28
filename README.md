@@ -205,6 +205,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0383-ransom-note) |
@@ -252,6 +253,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0383-ransom-note) |
@@ -416,5 +418,6 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
