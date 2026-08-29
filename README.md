@@ -130,6 +130,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0053-maximum-subarray) |
@@ -243,6 +244,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0125-valid-palindrome) |
@@ -282,6 +284,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0268-missing-number) |
