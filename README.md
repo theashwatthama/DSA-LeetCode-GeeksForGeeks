@@ -166,6 +166,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2029-stone-game-ix](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3731-find-missing-elements) |
@@ -358,6 +359,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [0767-reorganize-string](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0767-reorganize-string) |
 | [1927-sum-game](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
