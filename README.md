@@ -130,6 +130,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0033-search-in-rotated-sorted-array) |
@@ -245,6 +246,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0061-rotate-list) |
@@ -355,6 +357,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0409-longest-palindrome) |
 | [0767-reorganize-string](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0767-reorganize-string) |
 | [1927-sum-game](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1927-sum-game) |
