@@ -134,6 +134,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [0015-3sum](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0057-insert-interval) |
@@ -182,6 +183,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0392-is-subsequence) |
@@ -249,6 +251,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [0011-container-with-most-water](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0189-rotate-array) |
@@ -326,6 +329,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -341,6 +345,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0739-daily-temperatures) |
 ## Counting
