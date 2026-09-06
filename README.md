@@ -222,6 +222,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [0383-ransom-note](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0692-top-k-frequent-words) |
@@ -276,6 +277,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [0387-first-unique-character-in-a-string](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -440,5 +442,6 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
