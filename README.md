@@ -289,6 +289,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [0767-reorganize-string](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0767-reorganize-string) |
 | [0940-distinct-subsequences-ii](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -354,6 +355,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [0503-next-greater-element-ii](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Heap (Priority Queue)
@@ -461,6 +463,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
