@@ -189,6 +189,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0152-maximum-product-subarray) |
@@ -279,6 +280,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0387-first-unique-character-in-a-string) |
@@ -351,6 +353,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0739-daily-temperatures) |
@@ -464,6 +467,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
