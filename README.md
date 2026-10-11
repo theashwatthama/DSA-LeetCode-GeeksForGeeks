@@ -169,6 +169,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2029-stone-game-ix](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -410,6 +411,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3483-unique-3-digit-even-numbers) |
 ## Ternary Search
