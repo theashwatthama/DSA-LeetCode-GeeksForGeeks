@@ -170,6 +170,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [2029-stone-game-ix](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -234,6 +235,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [0767-reorganize-string](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0767-reorganize-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1189-maximum-number-of-balloons) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -475,4 +477,12 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
