@@ -168,6 +168,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2029-stone-game-ix](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -330,6 +331,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [0692-top-k-frequent-words](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0767-reorganize-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -351,6 +353,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [0704-binary-search](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0875-koko-eating-bananas) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
