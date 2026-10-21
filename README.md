@@ -308,6 +308,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Recursion
 |  |
 | ------- |
