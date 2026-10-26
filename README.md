@@ -253,6 +253,7 @@ Made with ☕ and consistent practice by [@theashwatthama](https://github.com/th
 | [0268-missing-number](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/0628-maximum-product-of-three-numbers) |
+| [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1927-sum-game](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/2029-stone-game-ix) |
 | [2409-count-days-spent-together](https://github.com/theashwatthama/DSA-LeetCode-GeeksForGeeks/tree/master/2409-count-days-spent-together) |
